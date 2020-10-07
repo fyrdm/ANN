@@ -1,7 +1,6 @@
 # ANN
 A Simple Artificial Neural Network Implementations and Visualization
 
-
 Project Properties :
 1 - in C++ .Net Language
 2 - A Windows Form Application
